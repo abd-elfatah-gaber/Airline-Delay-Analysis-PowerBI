@@ -14,6 +14,11 @@
  
 </div>
 ---
+
+
+ 📥 **[Download Power BI File (.pbix)](https://drive.google.com/file/d/19Al1Z89sqNbEm0llLPX8j0sS1pNkI3dj/view?usp=sharing)**
+
+
  
 ## 🗂️ Table of Contents
  
