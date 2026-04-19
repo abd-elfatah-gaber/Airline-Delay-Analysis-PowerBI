@@ -38,7 +38,7 @@ This project analyzes **US domestic flight delays** to help airlines and operati
 - 🌦️ **What causes** delays (carrier, weather, NAS, late aircraft)
 | Feature | Details |
 |---|---|
-| 📁 Power BI File | `النسخة.pbix` |
+| 📁 Power BI File | `Airline-Delay-Analysis.pbix` |
 | 🐍 Python Notebook | `Data_Cleaning_Airline.ipynb` |
 | 📄 Dashboard Pages | 3 Interactive Pages |
 | 🗃️ Schema | Star Schema |
@@ -274,7 +274,7 @@ All measures are stored in the dedicated **`#KPIs`** table:
  
 ```
 📦 Airline-Delay-Analysis/
-├── 📊 النسخة.pbix                     ← Power BI dashboard file
+├── 📊 Airline-Delay-Analysis  ← Power BI 
 ├── 🐍 Data_Cleaning_Airline.ipynb     ← Python data cleaning notebook
 ├── 📸 screenshots/
 │   ├── 01_Overview.png
@@ -289,7 +289,7 @@ All measures are stored in the dedicated **`#KPIs`** table:
 ## 🚀 How to Use
  
 ### Power BI Dashboard
-1. Download `النسخة.pbix`
+1. Download ` Airline-Delay-Analysis.pbix`
 2. Open in **Power BI Desktop** (2023 or later)
 3. Use the **left sidebar** to switch between the 3 pages
 4. Use the **slicers** (Month · Day · Carrier) to filter the data interactively
