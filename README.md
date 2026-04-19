@@ -1,16 +1,16 @@
 # ✈️ Airline Delay Analysis — Flight Intelligence Dashboard
  
 <div align="center">
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Measures-6366F1?style=for-the-badge)
-![Schema](https://img.shields.io/badge/Schema-Star%20Schema-0EA5E9?style=for-the-badge)
-![Pages](https://img.shields.io/badge/Dashboard%20Pages-3-22C55E?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-16a34a?style=for-the-badge)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/DAX-Measures-6366F1?style=for-the-badge" alt="DAX"/>
+<img src="https://img.shields.io/badge/Schema-Star%20Schema-0EA5E9?style=for-the-badge" alt="Schema"/>
+<img src="https://img.shields.io/badge/Dashboard%20Pages-3-22C55E?style=for-the-badge" alt="Pages"/>
+<img src="https://img.shields.io/badge/Status-Completed-16a34a?style=for-the-badge" alt="Status"/>
+<br/><br/>
  
-<br/>
-> **An end-to-end flight delay analytics solution — from raw data cleaning in Python to an interactive 3-page Power BI dashboard — uncovering delay patterns across 2M+ flights, 20+ airlines, and thousands of US routes.**
+<strong>An end-to-end flight delay analytics solution — from raw data cleaning in Python to an interactive 3-page Power BI dashboard — uncovering delay patterns across 2M+ flights, 20+ airlines, and thousands of US routes.</strong>
  
 </div>
 ---
